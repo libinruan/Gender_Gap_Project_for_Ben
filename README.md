@@ -1,6 +1,6 @@
-#Gender Gap Project
+# Gender Gap Project
 
-###Project lead researchers
+### Project lead researchers
 
 Dr. Ben Malin (Minneapolis Fed) and Dr. Soo Lee (U. Maryland) 
 
@@ -23,7 +23,7 @@ create scatter plots to see the relationship (in the cross section of countries)
 - unemployment
 - education attainment rates
 
-###Data source
+### Data source
 
 The World Bank's Gender Statistics database.[1] The data set contains annual time series data during the period of 1960 through 2017. Economy coverage includes high and low income countries. The total of countries in the data set is 217. 
 
